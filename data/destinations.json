@@ -35,29 +35,4 @@
     "description": "Bandarban is a hill district in Bangladesh known for its scenic beauty and outdoor activities. Visitors can explore the district's waterfalls, trekking trails, and hilltop temples. The area is also home to several ethnic communities, and visitors can learn about their culture and traditions.",
     "imageLink": "https://images.unsplash.com/photo-1647456636154-f5f5fc99aec1?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=435&q=80"
   }
-  ,
-  {
-    "id": 7,
-    "name": "Srimangal",
-    "description": "Srimangal is a small town in Bangladesh known for its tea plantations and scenic beauty. Visitors can take a tour of the tea gardens and learn about the tea-making process. The area also has several waterfalls and hiking trails for outdoor enthusiasts.",
-    "imageLink": "https://images.unsplash.com/photo-1677950275757-0460cab1df08?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=387&q=80"
-  },
-  {
-    "id": 8,
-    "name": "Kuakata",
-    "description": "Kuakata is a seaside town in Bangladesh known for its panoramic sea views and stunning sunsets. It is located on the southern coast of the country and is a popular destination for beach lovers and adventure seekers.",
-    "imageLink": "https://images.unsplash.com/photo-1520454974749-611b7248ffdb?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=387&q=80"
-  },
-  {
-    "id": 9,
-    "name": "Rangamati",
-    "description": "Rangamati is a scenic hill district in Bangladesh known for its natural beauty and ethnic diversity. Visitors can explore the district's picturesque landscapes, including waterfalls, lakes, and hills. The area is also home to several ethnic communities, and visitors can learn about their culture and traditions.",
-    "imageLink": "https://images.unsplash.com/photo-1636261318845-8733130d5924?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=327&q=80"
-  },
-  {
-    "id": 10,
-    "name": "Bandarban",
-    "description": "Bandarban is a hill district in Bangladesh known for its scenic beauty and outdoor activities. Visitors can explore the district's waterfalls, trekking trails, and hilltop temples. The area is also home to several ethnic communities, and visitors can learn about their culture and traditions.",
-    "imageLink": "https://images.unsplash.com/photo-1647456636154-f5f5fc99aec1?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=435&q=80"
-  }
 ]
